@@ -1,0 +1,10 @@
+RewriteEngine On
+
+DirectoryIndex login.php
+# URL Gestionnaire :
+#RewriteRule ^acceuil$ acceuilGestionnaire.php
+#RewriteRule ^paiements/?$ paiementsGestionnaire.php
+#RewriteRule ^editUser/([0-9-]+)$ editGestionnaire.php?idGestionnaire=$1
+#RewriteRule ^shop/(.*)?-(.*)?/(.*)?$ shop.php?category=$1&name=$2&type=$3
+#RewriteRule ^index/?$ acceuilGestionnaire.php
+#RewriteRule ^index/?$ acceuilGestionnaire.php
